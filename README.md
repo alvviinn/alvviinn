@@ -4,7 +4,7 @@
 
 # Hi there, I'm Alvin Kimani👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+A brief, 2-3  sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
 
 - 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
 - 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
